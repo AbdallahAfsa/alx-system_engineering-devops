@@ -1,1 +1,2 @@
-description of alx-system_engineering-devops
+#!/bin/bash
+0x00. Shell, basics
