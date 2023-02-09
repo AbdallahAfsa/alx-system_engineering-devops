@@ -1,2 +1,2 @@
-#!/bin/bash
-pwd - displays absolute path name of the current working directory
+SHELL BASICS
+Using git to document Shell basics to github
